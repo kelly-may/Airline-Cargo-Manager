@@ -2,7 +2,7 @@
  *  @Course: SDEV 450 ~ Enterprise Java Programming
  *  @Author Name: Andrew Dockan
  *  @Assignment Name: Champlain Air Freight Database - for final project
- *  @Date: Jan 26, 2020
+ *  @Date: Oct 6, 2020
  *  @Description: master create script for database
  */
 
